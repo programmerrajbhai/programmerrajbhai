@@ -1,73 +1,102 @@
-# Hi — I'm [Your Name] 👋 (programmerrajbhai)
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Raj+%F0%9F%91%8B;Flutter+%26+Full+Stack+Developer;Building+Real-World+Apps;Learning+%7C+Building+%7C+Sharing" />
+</p>
 
-> Crafting thoughtful, maintainable code that solves real problems — one commit at a time.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmerrajbhai&layout=compact&theme=radical)](https://github.com/programmerrajbhai)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=programmerrajbhai&show_icons=true&theme=radical)](https://github.com/programmerrajbhai)
-
----
-
-## 🔭 About me
-I build reliable software and delightful developer experiences. I enjoy turning ambiguous problems into clear, testable solutions and sharing what I learn along the way.
-
-- 🔧 Currently focused on: building [product or domain], scalable systems, and developer tooling
-- 🌱 Always learning: [your current focus — e.g., distributed systems, MLOps, Rust, TypeScript]
-- 💬 Ask me about: system design, code quality, CI/CD, or open-source maintenance
-- ⚡ Fun fact: [one-line fun fact — e.g., Photographer, marathon runner, coffee nerd]
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=programmerrajbhai&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/programmerrajbhai?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/programmerrajbhai?label=Stars&style=flat" />
+</p>
 
 ---
 
-## 💼 What I do
-- Develop full-stack web apps and APIs with a focus on reliability and developer experience
-- Design pragmatic architectures that balance maintainability and speed of delivery
-- Contribute to and maintain open-source projects; mentor engineers and review code
+## 👋 Hi — I'm Raj (programmerrajbhai)
+
+> 🚀 Crafting scalable, clean & maintainable software — one commit at a time.
 
 ---
 
-## 🛠 Tech stack (high level)
-- Languages: JavaScript/TypeScript, Python, Go, [add others]
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, FastAPI, gRPC
-- Data & infra: PostgreSQL, Redis, Docker, Kubernetes, Terraform
-- Tools: Git, GitHub Actions, CI/CD, Jest, Playwright
+## 📊 GitHub Stats (Live)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=programmerrajbhai&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerrajbhai&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## ⭐ Featured projects
-- [Project A](https://github.com/programmerrajbhai/project-a) — One-line summary of what it does and why it matters.
-- [Project B](https://github.com/programmerrajbhai/project-b) — Problem solved, key tech used, and impact (users/perf).
-- [Project C](https://github.com/programmerrajbhai/project-c) — A small library or tool you maintain; mention compatibility or adoption.
-
-(Replace the links above with your favorite repos. Keep each description to 1–2 sentences focused on value.)
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=programmerrajbhai&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## 🔗 Quick links
-- Portfolio / Website: [your-website.com](https://your-website.com)
-- Résumé / CV: [PDF / link]()
-- Blog: [your-blog.com](https://your-blog.com)
-- Email: yourname@domain.com
-- Twitter / X: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
+## 🧠 About Me
+- 💻 Flutter & Full-Stack App Developer  
+- 🧩 Love solving real-world problems with clean architecture  
+- 🌱 Currently learning: **Advanced Flutter, Backend APIs, System Design**  
+- 💬 Ask me about: Flutter, PHP APIs, Node.js, Git, App Architecture  
+- ⚡ Fun fact: I enjoy turning complex ideas into simple UI
 
 ---
 
-## 🤝 Open to
-- Collaborations on open-source projects and developer tooling
-- Short-term consulting and contract work
-- Mentoring and speaking at meetups or conferences
+## 🛠 Tech Stack
+### 🚀 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,nodejs,js,ts" />
+</p>
+
+### 🧩 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,express" />
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
 ---
 
-## 📫 How to reach me
-Feel free to open an issue or PR on one of my repos, send an email, or connect on LinkedIn — I try to respond within a few business days.
+## ⭐ Featured Projects
+- 📱 **Flutter Social Media App** — Full-featured app with posts, media & API backend  
+- 🛒 **E-Commerce App** — Product listing, cart, checkout & admin panel  
+- 📚 **Education App** — MCQ system, timer, result analytics  
+
+👉 *More projects in my repositories…*
 
 ---
 
-## 📈 GitHub stuff
-- I follow best practices: small PRs, meaningful commit messages, and CI on every branch.
-- I like documenting design decisions and leaving clear CONTRIBUTING.md files on projects.
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmerrajbhai&theme=redical&hide_border=true" />
+</p>
 
 ---
 
-Thanks for stopping by — I hope you find something useful in my repos. If you'd like, I can personalize this README with your real bio, skills, and projects next.
+## 🌐 Connect With Me
+<p>
+  <a href="https://github.com/programmerrajbhai">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Open To
+- 🔥 Open-source collaboration  
+- 📱 Flutter app projects  
+- 🧠 Learning & mentoring together  
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories ⭐
+</p>
