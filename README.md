@@ -17,18 +17,11 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmerrajbhai&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerrajbhai&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmerrajbhai&theme=redical&hide_border=true" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=programmerrajbhai&theme=radical&hide_border=true" />
-</p>
 
 ---
 
@@ -68,10 +61,6 @@
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmerrajbhai&theme=redical&hide_border=true" />
-</p>
 
 ---
 
